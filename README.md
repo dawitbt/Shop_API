@@ -1,5 +1,4 @@
 
-````md
 # 🛒 Simple Shop API
 
 A lightweight and scalable **RESTful e-commerce backend API** built with **Node.js, Express, and MySQL (raw SQL queries)**.  
@@ -290,12 +289,4 @@ Backend Developer | Node.js | MySQL
 
 This project is open source and available under the [MIT License](LICENSE)
 
-```
-
----
-
-If you want next level upgrade, I can:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- or :contentReference[oaicite:2]{index=2}
 ```
