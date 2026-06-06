@@ -1,4 +1,4 @@
-````md
+
 # 🛒 Simple Shop API
 
 A lightweight and scalable **RESTful e-commerce backend API** built with **Node.js, Express, and MySQL (raw SQL queries)**.  
